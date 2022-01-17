@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2010, the Marky Mark and the Funky Bunch league began as redraft league amongst a small group of friends. In 2021, the league converted into a full-fledged dynasty league. Each year, the managers compete to win the chip and avoid the ever-humiliating Coomer title for last place.</p>
+  <p>Managers can build immediate win-now teams, while others can begin the slow process of building a juggernaut dynasty team. A portion of the league may prioritize youth and draft picks, the rest may gravitate towards the steadfast value of veterans. While some managers may flee from injuries and down years, others will buy the dip and built for the future.</p>
+  <p>In astounding commitment to building a dynasty franchise, many of the managers have begun researching and scouting players. These managers are being heavily indoctrinated into the dynasty fantasy lifestyle and will be expected to partake into the inaugural dynasty season.</p>
+  <p>In contrast to the addition of these committed managers, some managers have also left but, despite that, the league has only gotten stronger. With more passionate managers, the competition has become more intense and more difficult each year.</p>
+  <p>While the ultimate prize is bragging rights and roasting the rest of the league for the next year, the champion manager also walks away with 50% of the pot and the last place manager earns the Coomer title and will recreate a meme for the entertainment of the league.</p>
 `;
 
 /*   STEP 3   */
